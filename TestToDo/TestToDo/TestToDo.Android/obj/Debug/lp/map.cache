@@ -1,0 +1,10 @@
+System.Runtime
+TestToDo.Core
+MvvmCross.Platform
+MvvmCross.Platform.Droid
+MvvmCross.Core
+MvvmCross.Droid
+MvvmCross.Binding
+MvvmCross.Binding.Droid
+MvvmCross.Localization
+System.Resources.ResourceManager

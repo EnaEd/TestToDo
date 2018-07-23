@@ -1,0 +1,15 @@
+C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\TestToDo\TestToDo.Core\bin\Debug\TestToDo.Core.dll
+C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\TestToDo\TestToDo.Core\bin\Debug\TestToDo.Core.pdb
+C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\TestToDo\TestToDo.Core\bin\Debug\MvvmCross.Binding.dll
+C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\TestToDo\TestToDo.Core\bin\Debug\MvvmCross.Core.dll
+C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\TestToDo\TestToDo.Core\bin\Debug\MvvmCross.Localization.dll
+C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\TestToDo\TestToDo.Core\bin\Debug\MvvmCross.Platform.dll
+C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\TestToDo\TestToDo.Core\bin\Debug\MvvmCross.Binding.pdb
+C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\TestToDo\TestToDo.Core\bin\Debug\MvvmCross.Core.pdb
+C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\TestToDo\TestToDo.Core\bin\Debug\MvvmCross.Localization.pdb
+C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\TestToDo\TestToDo.Core\bin\Debug\MvvmCross.Platform.pdb
+C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\TestToDo\TestToDo.Core\obj\Debug\TestToDo.Core.csprojAssemblyReference.cache
+C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\TestToDo\TestToDo.Core\obj\Debug\TestToDo.Core.csproj.CoreCompileInputs.cache
+C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\TestToDo\TestToDo.Core\obj\Debug\TestToDo.Core.csproj.CopyComplete
+C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\TestToDo\TestToDo.Core\obj\Debug\TestToDo.Core.dll
+C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\TestToDo\TestToDo.Core\obj\Debug\TestToDo.Core.pdb
