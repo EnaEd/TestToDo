@@ -13,19 +13,8 @@ namespace TestToDo.Core.ViewModels
         
         public static ObservableCollection<Item> ListItems { get; set; }
         
-        //private MainViewModel _mainViewModel;
-        //public MainViewModel MainViewModel
-        //{
-        //    get { return _mainViewModel; }
-        //    set
-        //    {
-        //        if (_mainViewModel!=value)
-        //        {
-        //            _mainViewModel = value;
-        //            RaisePropertyChanged(() => MainViewModel);
-        //        }
-        //    }
-        //}
+        
+        
 
         public Item Item { get;set; }
 
@@ -40,16 +29,16 @@ namespace TestToDo.Core.ViewModels
         }
         
 
-
         public string TaskName
         {
             get
             {
                 if (TaskContent.Length<10)
                 {
-                    return string.Format($"{Item.TaskContent}"); 
+                    return $"{Item.TaskContent}"; 
                 }
-                return string.Format($"{Item.TaskContent.Substring(0, 10)}...");
+                string itemString = Item.TaskContent.Substring(0, 10);
+                return $"{itemString}...";
             }
         }
         public string TaskContent

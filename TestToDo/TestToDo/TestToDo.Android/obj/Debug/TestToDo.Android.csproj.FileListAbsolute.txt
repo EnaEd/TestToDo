@@ -102,8 +102,6 @@ C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\TestToDo\
 C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\TestToDo\TestToDo\TestToDo\TestToDo.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
 C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\TestToDo\TestToDo\TestToDo\TestToDo.Android\obj\Debug\android\assets\System.Xml.pdb
 C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\TestToDo\TestToDo\TestToDo\TestToDo.Android\bin\Debug\TestToDo.Android.dll
-C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\TestToDo\TestToDo.Core\bin\Debug\TestToDo.Core.dll
-C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\TestToDo\TestToDo\TestToDo\TestToDo.Android\bin\Debug\TestToDo.Core.dll.mdb
 C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\TestToDo\TestToDo\TestToDo\TestToDo.Android\obj\Debug\linksrc\TestToDo.Android.dll.mdb
 C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\TestToDo\TestToDo\TestToDo\TestToDo.Android\obj\Debug\linksrc\MvvmCross.Binding.dll.mdb
 C:\Users\djazi\OneDrive\Документы\Visual Studio 2017\Projects\TestToDo\TestToDo\TestToDo\TestToDo.Android\obj\Debug\linksrc\MvvmCross.Binding.Droid.dll.mdb

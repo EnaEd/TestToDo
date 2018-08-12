@@ -102,11 +102,35 @@ namespace TestToDo.Droid
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7F060002
-			public const int MvvmCrossTagId = 2131099650;
+			// aapt resource value: 0x7F020002
+			public const int button3 = 2130837506;
 			
-			// aapt resource value: 0x7F060003
-			public const int MvxBindingTagUnique = 2131099651;
+			// aapt resource value: 0x7F020007
+			public const int button4 = 2130837511;
+			
+			// aapt resource value: 0x7F020008
+			public const int button5 = 2130837512;
+			
+			// aapt resource value: 0x7F020009
+			public const int listView1 = 2130837513;
+			
+			// aapt resource value: 0x7F020010
+			public const int MvvmCrossTagId = 2130837520;
+			
+			// aapt resource value: 0x7F020011
+			public const int MvxBindingTagUnique = 2130837521;
+			
+			// aapt resource value: 0x7F020006
+			public const int relativeLayout1 = 2130837510;
+			
+			// aapt resource value: 0x7F020005
+			public const int switch1 = 2130837509;
+			
+			// aapt resource value: 0x7F020003
+			public const int textView1 = 2130837507;
+			
+			// aapt resource value: 0x7F020004
+			public const int textView2 = 2130837508;
 			
 			static Id()
 			{
@@ -121,14 +145,14 @@ namespace TestToDo.Droid
 		public partial class Layout
 		{
 			
-			// aapt resource value: 0x7F020002
-			public const int ItemView = 2130837506;
+			// aapt resource value: 0x7F030002
+			public const int ItemView = 2130903042;
 			
-			// aapt resource value: 0x7F020003
-			public const int MainView = 2130837507;
+			// aapt resource value: 0x7F030003
+			public const int MainView = 2130903043;
 			
-			// aapt resource value: 0x7F020004
-			public const int SplashScreen = 2130837508;
+			// aapt resource value: 0x7F030004
+			public const int SplashScreen = 2130903044;
 			
 			static Layout()
 			{
@@ -143,8 +167,8 @@ namespace TestToDo.Droid
 		public partial class Mipmap
 		{
 			
-			// aapt resource value: 0x7F030002
-			public const int Icon = 2130903042;
+			// aapt resource value: 0x7F040002
+			public const int Icon = 2130968578;
 			
 			static Mipmap()
 			{
@@ -159,11 +183,11 @@ namespace TestToDo.Droid
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7F050003
-			public const int app_name = 2131034115;
+			// aapt resource value: 0x7F060003
+			public const int app_name = 2131099651;
 			
-			// aapt resource value: 0x7F050002
-			public const int hello = 2131034114;
+			// aapt resource value: 0x7F060002
+			public const int hello = 2131099650;
 			
 			static String()
 			{
@@ -178,8 +202,8 @@ namespace TestToDo.Droid
 		public partial class Style
 		{
 			
-			// aapt resource value: 0x7F040002
-			public const int Theme_Splash = 2130968578;
+			// aapt resource value: 0x7F050002
+			public const int Theme_Splash = 2131034114;
 			
 			static Style()
 			{

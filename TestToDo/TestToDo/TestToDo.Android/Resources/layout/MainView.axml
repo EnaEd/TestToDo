@@ -12,11 +12,12 @@
         android:layout_alignParentRight="true"
         android:background="@android:color/holo_green_dark"
         local:MvxBind="Click GoToItem" />
-    <ListView
+    <Mvx.MvxListView
         android:minWidth="25px"
         android:background="@android:color/darker_gray"
         android:minHeight="25px"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        local:MvxBind="ItemsSource ItemViewModel.ListItems;ItemClick OpenItem"
         android:id="@+id/listView1" />
 </RelativeLayout>
